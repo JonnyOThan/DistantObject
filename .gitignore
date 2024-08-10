@@ -1,5 +1,6 @@
 ## Why isn't this ignored anyway?..
 *.userprefs
+.vs
 
 #################
 ## Eclipse
